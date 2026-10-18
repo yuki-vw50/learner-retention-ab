@@ -1,0 +1,11 @@
+engagement_band,version,n_players,pct_of_variant,d7_retention
+0. never played,gate_30,1937,4.33,0.0083
+0. never played,gate_40,2057,4.52,0.0063
+1. 1-29 rounds,gate_30,26107,58.4,0.0451
+1. 1-29 rounds,gate_40,26819,58.96,0.0418
+2. 30-39 rounds,gate_30,3090,6.91,0.1573
+2. 30-39 rounds,gate_40,2786,6.12,0.1569
+3. 40-99 rounds,gate_30,7398,16.55,0.329
+3. 40-99 rounds,gate_40,7479,16.44,0.2939
+4. 100+ rounds,gate_30,6168,13.8,0.7114
+4. 100+ rounds,gate_40,6348,13.96,0.7103

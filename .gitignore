@@ -1,0 +1,6 @@
+data/raw/*.gz
+tests/fake_traces_sample.csv.gz
+outputs/_TEST_ONLY/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
